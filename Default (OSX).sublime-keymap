@@ -8,7 +8,7 @@
         "args": {
             "action": "remove_tag"
         }, 
-        "command": "run_emmet_action", 
+        "command": "run_emmet_action", asdsadasdasd
         "context": [
             {
                 "key": "emmet_action_enabled.remove_tag"
